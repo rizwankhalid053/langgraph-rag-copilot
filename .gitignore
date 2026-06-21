@@ -1,0 +1,13 @@
+# Ignore virtual environment
+.venv/
+venv/
+
+# Ignore Python junk
+__pycache__/
+*.pyc
+
+# Ignore API keys and sensitive data
+.env
+
+# Ignore local uploads/temp folders
+temp_uploads/
